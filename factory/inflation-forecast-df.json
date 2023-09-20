@@ -1,0 +1,9 @@
+{
+	"name": "inflation-forecast-df",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2e342ebf-bb29-4d92-a3c4-06620600dc03",
+		"tenantId": "e25ad226-90f4-4135-b4eb-da2e5cca0638"
+	}
+}
